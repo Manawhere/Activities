@@ -1,0 +1,24 @@
+{
+  "$schema": "https://schemas.premid.app/metadata/1.17",
+  "apiVersion": 1,
+  "author": {
+    "id": "467473194505469952",
+    "name": "manawhere"
+  },
+  "service": "Sudoku",
+  "description": {
+    "en": "Sudoku.com is a free online Sudoku game with multiple difficulty levels and daily challenges."
+  },
+  "url": "sudoku.com",
+  "regExp": "^https?[:][/][/]([a-z0-9-]+[.])*sudoku[.]com[/]",
+  "version": "1.0.0",
+  "logo": "https://i.imgur.com/8dfMgfZ.png",
+  "thumbnail": "https://i.imgur.com/m8sHZvI.png",
+  "color": "#4A90E2",
+  "category": "games",
+  "tags": [
+    "logic",
+    "puzzle",
+    "game"
+  ]
+}
